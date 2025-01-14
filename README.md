@@ -14,4 +14,4 @@ This package provides a zero-AJAX, pre-compiled JSON cascading dropdown integrat
 ---
 
 
-<!-- Milestone 1/11: docs(rfc): zero-AJAX cascading 64-district & 500+ thana checkout engine RFC (2024-12) -->
+<!-- Milestone 2/11: feat(data): structured JSON dataset indexing all 64 districts and 500+ thanas in Bangladesh (2025-01) -->
