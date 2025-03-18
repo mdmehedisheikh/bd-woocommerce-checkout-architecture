@@ -14,4 +14,4 @@ This package provides a zero-AJAX, pre-compiled JSON cascading dropdown integrat
 ---
 
 
-<!-- Milestone 2/11: feat(data): structured JSON dataset indexing all 64 districts and 500+ thanas in Bangladesh (2025-01) -->
+<!-- Milestone 3/11: feat(cartflows): CartFlows step checkout integration and WooCommerce classic hook mapping (2025-03) -->
