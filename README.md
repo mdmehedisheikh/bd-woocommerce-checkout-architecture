@@ -14,4 +14,4 @@ This package provides a zero-AJAX, pre-compiled JSON cascading dropdown integrat
 ---
 
 
-<!-- Milestone 3/11: feat(cartflows): CartFlows step checkout integration and WooCommerce classic hook mapping (2025-03) -->
+<!-- Milestone 4/11: feat(courier): Pathao, Steadfast, and RedX delivery zone validation algorithm (2025-05) -->
