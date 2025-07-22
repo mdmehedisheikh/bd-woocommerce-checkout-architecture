@@ -14,4 +14,4 @@ This package provides a zero-AJAX, pre-compiled JSON cascading dropdown integrat
 ---
 
 
-<!-- Milestone 4/11: feat(courier): Pathao, Steadfast, and RedX delivery zone validation algorithm (2025-05) -->
+<!-- Milestone 5/11: feat(samples): implement thana cascade hook and client-side pre-indexed dataset loader (2025-07) -->
