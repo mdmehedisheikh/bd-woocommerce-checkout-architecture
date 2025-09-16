@@ -14,4 +14,4 @@ This package provides a zero-AJAX, pre-compiled JSON cascading dropdown integrat
 ---
 
 
-<!-- Milestone 5/11: feat(samples): implement thana cascade hook and client-side pre-indexed dataset loader (2025-07) -->
+<!-- Milestone 6/11: perf(rendering): sub-5ms dropdown rendering benchmark with zero server roundtrips (2025-09) -->
