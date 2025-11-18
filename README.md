@@ -14,4 +14,4 @@ This package provides a zero-AJAX, pre-compiled JSON cascading dropdown integrat
 ---
 
 
-<!-- Milestone 6/11: perf(rendering): sub-5ms dropdown rendering benchmark with zero server roundtrips (2025-09) -->
+<!-- Milestone 7/11: feat(customizer): admin settings for delivery charge calculations and default district select (2025-11) -->
