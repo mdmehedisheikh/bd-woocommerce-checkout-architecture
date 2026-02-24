@@ -14,4 +14,4 @@ This package provides a zero-AJAX, pre-compiled JSON cascading dropdown integrat
 ---
 
 
-<!-- Milestone 7/11: feat(customizer): admin settings for delivery charge calculations and default district select (2025-11) -->
+<!-- Milestone 8/11: perf(hpos): WooCommerce High-Performance Order Storage (HPOS) compatibility update (2026-02) -->
