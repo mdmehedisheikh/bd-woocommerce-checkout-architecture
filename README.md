@@ -14,4 +14,4 @@ This package provides a zero-AJAX, pre-compiled JSON cascading dropdown integrat
 ---
 
 
-<!-- Milestone 8/11: perf(hpos): WooCommerce High-Performance Order Storage (HPOS) compatibility update (2026-02) -->
+<!-- Milestone 9/11: test(php): automated compatibility verification across PHP 7.4, 8.0, 8.1, 8.2, 8.3, 8.4, 8.5 (2026-05) -->
