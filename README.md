@@ -14,4 +14,4 @@ This package provides a zero-AJAX, pre-compiled JSON cascading dropdown integrat
 ---
 
 
-<!-- Milestone 9/11: test(php): automated compatibility verification across PHP 7.4, 8.0, 8.1, 8.2, 8.3, 8.4, 8.5 (2026-05) -->
+<!-- Milestone 10/11: docs(api): document WordPress filter hooks, actions, and third-party developer extensions (2026-08) -->
