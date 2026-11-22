@@ -13,5 +13,5 @@ This package provides a zero-AJAX, pre-compiled JSON cascading dropdown integrat
 
 ---
 
-
-<!-- Milestone 10/11: docs(api): document WordPress filter hooks, actions, and third-party developer extensions (2026-08) -->
+## 🔒 Code Sample Preview
+- `samples/thana-cascade-hook.php`: Curated PHP snippet demonstrating clean WordPress hook registration, nonce verification, and checkout billing field overrides.
